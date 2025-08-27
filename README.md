@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Ximénia
 
-<!--
-**XImenia851/XImenia851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ 24 years old • French • Web development student  
+🎨 Passionate about design, printing and creative visuals  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm learning
+- Basics of web development (HTML, CSS, a bit of JavaScript)  
+- Project organization  
+- Visual creativity & graphic design  
+
+---
+
+## 🎯 My goals
+- Build my first online portfolio  
+- Explore the web development world  
+- Connect my skills in graphic & print design with the digital field  
+
+---
+
+## 📫 Contact me
+- Email: ximeniahgrd@gmail.com
+
+---
+
+🌸 *Thanks for visiting my profile!* 🌸
