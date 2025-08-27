@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 What I'm learning
-- Basics of web development (HTML, CSS, a bit of JavaScript)  
+- Basics of web development (HTML, CSS, a bit of Java / Php)  
 - Project organization  
 - Visual creativity & graphic design  
 
