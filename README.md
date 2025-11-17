@@ -6,14 +6,15 @@
 ---
 
 ## 🚀 What I'm learning
-- Basics of web development (HTML, CSS, a bit of Java / Php)  
+- Basics of web development (HTML, CSS, a bit of Java / Javascript)
+- SpringBoot  
 - Project organization  
-- Visual creativity & graphic design  
+- Visual creativity & graphic design  (Figma, group projects)
 
 ---
 
 ## 🎯 My goals
-- Build my first online portfolio  
+- Build my first online portfolio, my own comics website
 - Explore the web development world  
 - Connect my skills in graphic & print design with the digital field  
 
