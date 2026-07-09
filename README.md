@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ximénia
 
-🌸 **24 years old • French**  
+🌸 **25 years old • French**  
 💻 **Web Development Student**  
 🎨 Passionate about **design, printing and creative visuals**
 
@@ -28,8 +28,8 @@
 
 ## 🎯 My Goals
 
-🌍 Build my **first online portfolio**  
-📚 Create my own **comics website**  
+🌍 Build my **own website**  
+📚 Create my own **design**  
 🎨 Connect **graphic & print design** with **web development**  
 🚀 Keep exploring the world of development  
 
