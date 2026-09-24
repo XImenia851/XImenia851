@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Ximénia%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Mobile%20Development%20Student%20•%20Graphic%20Designer&descAlignY=55&descSize=18" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=C0622A&center=true&vCenter=true&width=600&lines=DWWM+Certification+2026;Java+%2B+Spring+Boot+%2B+Microservices;Learning+offensive+security+on+HTB;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
@@ -49,19 +46,10 @@
 | ☕ **Makara's Coffee Place** | Comic-reading platform featuring my own original artwork, built as a microservices architecture (Consul, MySQL, MongoDB) | `Java` `Spring Boot` `Thymeleaf` `Figma` |
 | 💳 **[Flash Cash Project](https://github.com/XImenia851/Flash-Cash-Project)** | Payment app built with Spring Boot Security and Thymeleaf | `Java` `Spring Boot Security` `Thymeleaf` |
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=XImenia851&repo=TourGuide-project&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=XImenia851&repo=Flash-Cash-Project&theme=tokyonight&hide_border=true"/>
-</p>
 
 <br/>
 
 ## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=XImenia851&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XImenia851&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=XImenia851&theme=tokyonight&hide_border=true"/>
